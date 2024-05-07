@@ -2,7 +2,7 @@ import java.sql.*;
 
 import java.util.Scanner;
 
-class test {
+class jdbc3 {
    static final String DB_URL = "jdbc:mysql://localhost:3306/";
    static final String USER = "root";
    static final String PASS = "arjun";

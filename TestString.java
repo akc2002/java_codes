@@ -34,8 +34,10 @@ class TestString
         System.out.println(s2);
         s2 = s1.substring(1,3);
         System.out.println(s2);
-
-
-
+        System.out.println(s2.indexOf('j'));
+        s2.indexOf('j');
+        s1 = "arjunkumar";
+        System.out.println(s1.indexOf('r',1));
+        
     }
 }
